@@ -7,4 +7,4 @@
 -Linux
 -Python
 -Microsoft Visual Studio
-Database -SQL,MYSQL
+-Database -SQL,MYSQL
