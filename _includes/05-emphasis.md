@@ -1,1 +1,12 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**Skills**
+*• Project Management
+• Data Structures
+• Strategic Planning & Execution
+• Database Management	• Project Scheduling
+• Process Improvement
+• Enterprise Resource Planning 
+• Training and Development
+• Operating Systems
+• Team Building & Leadership
+• Quality Assurance*
+
