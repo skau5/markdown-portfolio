@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# Technical Skills
+-Microsoft C#
+-C, C++
+-Java
+-ASP.NET
+-Bootstrap
+-Linux
+-Python
+-Microsoft Visual Studio
+Database -SQL,MYSQL
